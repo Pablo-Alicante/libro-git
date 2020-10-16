@@ -1,6 +1,4 @@
-    Cambiar el fichero bibliografia.txt para que contenga las siguientes referencias:
-
-        Chacon, S. and Straub, B. Pro Git. Apress.
-        Loeliger, J. and McCullough, M. Version control with Git. O’Reilly.
-
-[A[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[
+•	Chacon, S. and Straub, B. Pro Git. Apress.
+•	Loeliger, J. and McCullough, M. Version control with Git. O’Reilly.
+•	Hodson, R. Ry’s Git Tutorial. Smashwords (2014)
+[A[B
